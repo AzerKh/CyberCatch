@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zer.simplegame"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:5:5-65
+12-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:5:22-62
+13    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+13-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:6:5-82
+13-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:6:22-79
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:7:5-80
+14-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:7:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:8:5-81
+15-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:8:22-78
+16
+17    <uses-feature
+17-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:10:5-85
+18        android:name="android.hardware.camera"
+18-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:10:19-57
+19        android:required="false" />
+19-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:10:58-82
+20    <uses-feature
+20-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:11:5-91
+21        android:name="android.hardware.camera.front"
+21-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:11:19-63
+22        android:required="false" />
+22-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:11:64-88
+23
+24    <application
+24-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:13:5-30:19
+25        android:allowBackup="true"
+25-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:16:9-35
+26        android:debuggable="true"
+27        android:extractNativeLibs="true"
+28        android:icon="@mipmap/ic_launche"
+28-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:14:9-42
+29        android:label="@string/app_name"
+29-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:17:9-41
+30        android:requestLegacyExternalStorage="true"
+30-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:18:9-52
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:15:9-54
+32        android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen" >
+32-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:19:9-82
+33        <activity
+33-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:21:9-29:20
+34            android:name="com.zer.simplegame.MainActivity"
+34-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:22:13-41
+35            android:exported="true"
+35-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:23:13-36
+36            android:screenOrientation="portrait" >
+36-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:24:13-49
+37            <intent-filter>
+37-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:25:13-28:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:26:17-69
+38-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:26:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:27:17-77
+40-->C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\src\main\AndroidManifest.xml:27:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>

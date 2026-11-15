@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launche_background
+drawable ic_launcher_background
+mipmap ic_launche
+mipmap ic_launche_foreground
+mipmap ic_launche_round
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name

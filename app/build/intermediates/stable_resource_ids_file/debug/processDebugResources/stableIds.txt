@@ -1,0 +1,9 @@
+com.zer.simplegame:mipmap/ic_launcher_round = 0x7f020005
+com.zer.simplegame:mipmap/ic_launche_round = 0x7f020002
+com.zer.simplegame:mipmap/ic_launcher = 0x7f020003
+com.zer.simplegame:mipmap/ic_launche_foreground = 0x7f020001
+com.zer.simplegame:string/app_name = 0x7f030000
+com.zer.simplegame:mipmap/ic_launche = 0x7f020000
+com.zer.simplegame:mipmap/ic_launcher_foreground = 0x7f020004
+com.zer.simplegame:drawable/ic_launcher_background = 0x7f010001
+com.zer.simplegame:drawable/ic_launche_background = 0x7f010000

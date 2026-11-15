@@ -1,0 +1,4 @@
+com.zer.simplegame.test.app-androidTest-0 C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\build\generated\res\resValues\androidTest\debug
+com.zer.simplegame.test.app-mergeDebugAndroidTestResources-1 C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.zer.simplegame.test.app-mergeDebugAndroidTestResources-2 C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.zer.simplegame.test.app-debugAndroidTest-3 C:\Users\GIGABYTE\Desktop\game_apk\SimpleCatchGame\SimpleCatchGame\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
